@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-sm8wd4.juragan89a.space/sitemap.xml
